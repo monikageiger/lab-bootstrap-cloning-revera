@@ -1,0 +1,43 @@
+body {
+    width: 1600px;
+
+}
+
+.row1 {
+    height: 100px;
+}
+
+.row2 {
+    height: 300px;
+}
+
+.row3 {
+    height: 300px;
+}
+
+
+/* .row5 {
+    height: 300px;
+} */
+
+.row6 {
+    height: 300px;
+}
+
+.row7 {
+    height: 200px;
+}
+
+h1 {
+    border: 1px solid black;
+}
+
+.row {
+    border: 1px solid black;
+    /* height: 300px; */
+}
+
+div img {
+    width: 300px;
+    height: 210px;
+}
